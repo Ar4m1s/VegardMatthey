@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VegardMatthey
+- 👀 I’m interested in problem solving i guess.
+- 🌱 I’m currently learning Rust.
